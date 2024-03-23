@@ -13,6 +13,9 @@ Employs convolutional neural networks (CNNs) for reverse image search, allowing 
 **- 3D Try-On Feature:**
 Integrates augmented reality (AR) or computer vision (CV) technology for a 3D try-on feature, enabling users to virtually try on clothing and accessories.
 
+![User Interface](https://github.com/jayantkasturia/Gz-Fashion-Recommendation-System/raw/main/screenshots_UI/Screenshot%202024-02-17%20183026.png)
+
+
 # Technical Stack:
 - Programming Language: Python
 - Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch
